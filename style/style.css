@@ -173,8 +173,9 @@
      .footer--cont{
          margin: 0 auto;
          position: relative;
-         top: 7rem;
+         top: 9rem;
          font-family: var(--ff-secondary);
+         font-size: var(--fs-h2);
          text-align: center;
          text-decoration: none;
     }
